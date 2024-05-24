@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/angular-pwa-client-sop/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
