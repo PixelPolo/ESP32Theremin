@@ -211,7 +211,7 @@ const int websocketPort = 443;
 ### For the AngularClientPWA-Token folder
 
 - This folder contains the code of a Progressive Web App made with the framework [Angular](https://angular.dev/)
-- This application is hosted on [Firebase](https://firebase.google.com/) and available at this address : https://atomlitesop.web.app/home
+- This application was hosted on [Firebase](https://firebase.google.com/).
 - If you are interested to deploy your own, you can create an account : **Hosting on Firebase is free until a certain usage**
 - Once you have created an account, you can create a project
 - To deploy the code, you can install [the angular cli](https://angular.io/cli)
